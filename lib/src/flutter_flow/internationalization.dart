@@ -12,7 +12,7 @@ class FFLocalizations {
   static FFLocalizations of(BuildContext context) =>
       Localizations.of<FFLocalizations>(context, FFLocalizations)!;
 
-  static List<String> languages() => ['en','vi'];
+  static List<String> languages() => ['en','vi','km'];
 
   static late SharedPreferences _prefs;
   static Future initialize() async =>
