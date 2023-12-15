@@ -1,13 +1,13 @@
 library flutter_html;
 
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
+import 'package:html/dom.dart' as dom;
+
 import 'html_parser.dart';
 import 'image_render.dart';
 import 'src/html_elements.dart';
-import 'style.dart';
-import 'package:html/dom.dart' as dom;
 import 'src/navigation_delegate.dart';
+import 'style.dart';
 
 //export render context api
 export 'html_parser.dart';
@@ -16,9 +16,9 @@ export 'image_render.dart';
 export 'src/anchor.dart';
 export 'src/interactable_element.dart';
 export 'src/layout_element.dart';
+export 'src/navigation_delegate.dart';
 export 'src/replaced_element.dart';
 export 'src/styled_element.dart';
-export 'src/navigation_delegate.dart';
 //export style api
 export 'style.dart';
 

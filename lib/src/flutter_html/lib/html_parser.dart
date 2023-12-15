@@ -6,19 +6,14 @@ import 'package:csslib/parser.dart' as cssparser;
 import 'package:csslib/visitor.dart' as css;
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
-import 'flutter_html.dart';
-import 'image_render.dart';
-import 'src/anchor.dart';
-import 'src/css_parser.dart';
-import 'src/html_elements.dart';
-import 'src/layout_element.dart';
-import 'src/navigation_delegate.dart';
-import 'src/utils.dart';
-import 'style.dart';
 import 'package:html/dom.dart' as dom;
 import 'package:html/parser.dart' as htmlparser;
 import 'package:numerus/numerus.dart';
+
+import 'flutter_html.dart';
+import 'src/css_parser.dart';
+import 'src/html_elements.dart';
+import 'src/utils.dart';
 
 typedef OnTap = void Function(
   String? url,
@@ -174,7 +169,7 @@ class HtmlParser extends StatelessWidget {
       name: "[Tree Root]",
       children: <StyledElement>[],
       node: html.documentElement,
-      style: Style.fromTextStyle(Theme.of(context).textTheme.bodyText2!),
+      style: Style.fromTextStyle(Theme.of(context).textTheme.bodyMedium!),
     );
 
     html.nodes.forEach((node) {
