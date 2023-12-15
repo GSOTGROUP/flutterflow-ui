@@ -6,8 +6,6 @@ repository: https://github.com/FlutterFlow/flutterflow-ui
 # google_mobile_ads, flutter_braintree, and chat have been disabled.
 # flutter_html, sign_in_with_apple, and assets_audio_player have been added manually.
 
-
-
 # The following line prevents the package from being accidentally published to
 # pub.dev using `pub publish`. This is preferred for private packages.
 # publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -31,11 +29,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  
+
   auto_size_text: 3.0.0
   cached_network_image: 3.1.0+1
   chewie: 1.5.0
-  collection: ^1.17.0
   emoji_flag_converter: 1.1.0
   fl_chart: 0.51.0
   flutter_credit_card: 2.0.0
@@ -54,15 +51,14 @@ dependencies:
   page_transition: 2.0.4
   pdfx: 2.3.0
   rive: 0.7.33
-  rxdart: 0.26.0
-  shared_preferences: 2.0.11
   table_calendar: 3.0.8
   timeago: 3.1.0
   url_launcher: ^6.1.11
   video_player: 2.4.7
   webviewx: 0.2.1
   youtube_plyr_iframe: 2.0.7
-  
+  shared_preferences: ^2.0.17
+
   # For assets_audio_player
   uuid: ^3.0.5
   http: ^0.13.4 # to download / cache network files
@@ -71,12 +67,12 @@ dependencies:
   # For flutter_html
   flutter_html: ^3.0.0-alpha.6
   from_css_color: 2.0.0
-  csslib: '>=0.17.0 <1.0.0'
-  flutter_layout_grid: '>=1.0.1 <2.0.0'
-  webview_flutter: '>=2.0.4 <3.0.0'
-  chewie_audio: '>=1.2.0 <2.0.0'
+  csslib: ">=0.17.0 <1.0.0"
+  flutter_layout_grid: ">=1.0.1 <2.0.0"
+  webview_flutter: ">=2.0.4 <3.0.0"
+  chewie_audio: ">=1.2.0 <2.0.0"
   flutter_svg: ^1.1.5
-  numerus: '>=1.1.1 <2.0.0'
+  numerus: ">=1.1.1 <2.0.0"
   flutter_animate: ^4.1.1+1
 
 dev_dependencies:
@@ -87,7 +83,6 @@ dev_dependencies:
 
 # The following section is specific to Flutter.
 flutter:
-
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
