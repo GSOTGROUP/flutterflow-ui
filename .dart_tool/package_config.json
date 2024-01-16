@@ -291,7 +291,7 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/intl-0.17.0",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/intl-0.18.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -531,13 +531,13 @@
     },
     {
       "name": "shared_preferences_foundation",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.3.4",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/shared_preferences_foundation-2.3.5",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "shared_preferences_linux",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.3.2",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/shared_preferences_linux-2.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -549,13 +549,13 @@
     },
     {
       "name": "shared_preferences_web",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/shared_preferences_web-2.2.2",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/shared_preferences_web-2.2.1",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "2.19"
     },
     {
       "name": "shared_preferences_windows",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.3.2",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/shared_preferences_windows-2.3.1",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
@@ -615,7 +615,7 @@
     },
     {
       "name": "table_calendar",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/table_calendar-3.0.8",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/table_calendar-3.0.9",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -657,51 +657,51 @@
     },
     {
       "name": "url_launcher",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher-6.2.2",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher-6.1.14",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.0"
     },
     {
       "name": "url_launcher_android",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_android-6.2.0",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_android-6.1.0",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "url_launcher_ios",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_ios-6.2.1",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_ios-6.1.5",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.19"
     },
     {
       "name": "url_launcher_linux",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_linux-3.1.1",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_linux-3.0.6",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.19"
     },
     {
       "name": "url_launcher_macos",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_macos-3.1.0",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_macos-3.0.7",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "url_launcher_platform_interface",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.2.0",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_platform_interface-2.1.5",
       "packageUri": "lib/",
       "languageVersion": "2.19"
     },
     {
       "name": "url_launcher_web",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_web-2.2.2",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_web-2.0.19",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "2.19"
     },
     {
       "name": "url_launcher_windows",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_windows-3.1.1",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/url_launcher_windows-3.0.8",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.19"
     },
     {
       "name": "uuid",
@@ -836,7 +836,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-12-15T03:37:16.617165Z",
+  "generated": "2024-01-16T07:00:27.717172Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
