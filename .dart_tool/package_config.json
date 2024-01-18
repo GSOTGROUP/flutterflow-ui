@@ -783,27 +783,27 @@
     },
     {
       "name": "webview_flutter",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/webview_flutter-2.8.0",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/webview_flutter-4.4.4",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "webview_flutter_android",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/webview_flutter_android-2.10.4",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/webview_flutter_android-3.13.2",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "webview_flutter_platform_interface",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/webview_flutter_platform_interface-1.9.5",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/webview_flutter_platform_interface-2.9.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "webview_flutter_wkwebview",
-      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-2.9.5",
+      "rootUri": "file:///Users/tungduong/.pub-cache/hosted/pub.dev/webview_flutter_wkwebview-3.10.2",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.0"
     },
     {
       "name": "win32",
@@ -836,7 +836,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2024-01-18T07:48:08.041314Z",
+  "generated": "2024-01-18T07:50:18.815331Z",
   "generator": "pub",
   "generatorVersion": "3.2.3"
 }
